@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`details snapshot  final 1`] = `
+<div>
+  <h1
+    data-testid="Details-heading"
+  >
+     user Information
+  </h1>
+  null
+</div>
+`;
